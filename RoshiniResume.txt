@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RESUME</title>
+</head>
+<body>
+  <h1>Roshini Garbhapu</h1>
+  <h3>ContactInformation</h3>
+  <p>Email:garbhapuroshini23@gmail.com</p>
+  <p>Phone:(+91) 9381130107</p>
+  <p>Vizianagarm district</p>
+  <p>Pincode:535558</p>
+  
+  <h2>Career Objective:</h2>
+  <p> Hardworking, creative, proactive, Ambitious, and eager to keep growing and evolving in my profession. Constantly developing new skills and abilities.</p>
+  
+  <h3>Educational Profile:</h3>
+  <table>
+    <tr>
+      <th>Year</th>
+      <th>Course</th>
+      <th>Institution/School/College</th>
+      <th>Percentage</th>
+    </tr>
+    <tr>
+      <td>2018-2022</td>
+      <td>Computer Science and Systems Engineering</td>
+      <td>Andhra University of College of Engineering for Women</td>
+      <td>6.30 GPA</td>
+    </tr>
+    <tr>
+      <td>2016-2018</td>
+      <td>MPC</td>
+      <td>Sri Chaitanya Junior College</td>
+      <td>73.4%</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>SSC</td>
+      <td>Bhashyam Public School</td>
+      <td>9.5GPA</td>
+    </tr>
+  </table>
+
+ <h3>Technical Skills</h3>
+ <ul>
+  <li>Operating System</li>
+  <li>Windows, Linux</li>
+  <li>Programming languages: C Programming, Python, Jaca, C++</li>
+  <li>Good knowledge of Excel, MS Office</li>
+ </ul>
+ 
+ <h3>Professional Strengths:</h3>
+ <ul>
+  <li>Excellent Communication and Interpersonal Skills</li>
+  <li>Polite, Cooperative, Creative, helpful, and friendly</li>
+  <li>Quick Learning ability, Innovative Thinking</li>
+  <li>Time Management</li>
+ </ul>
+ 
+ <h3>Hobbies and Interests:</h3>
+ <ul>
+  <li>Pencil Sketching</li>
+  <li>Listening to music</li>
+  <li>Badminton</li>
+  <li>Cooking</li>
+ </ul>
+ 
+ <h3>Trainings:</h3>
+ <ul>
+  <li>Introduction to Artificial Intelligence-January 2022</li>
+  <li>Core Java-2022 (September to October)</li>
+  <li>Web Development (17-01-2023 to 31-03-2023)/li>
+ </ul>
+
+ <h3>Internships:</h3>
+  <ul>
+   <li>Web Development (01-04-2023 to 15-06-2023)</li>
+  </ul>
+ 
+ <h3>Personal Profile:</h3>
+  <ul>
+   <li>Name: Roshini Garbhapu</li>
+   <li>Date of Birth: 8th April, 2001</li>
+   <li>Sex: Female</li>
+   <li>Marital Status: Single</li>
+   <li>Nationality: Indian</li>
+   <li>Languages known: English, Telugu, Hindi</li>
+  </ul>
+ 
+ <h3>Declaration:</h3>
+ <p>I hereby declare that the information furnished above is correct to the best of my knowledge.</p>
+ <ul>
+  <li>Place:</li>
+  <li>Date: 05/02/2024</li>
+  <li>Roshini Garbhapu</li>
+ </ul>
+</body>
+</html>
+
+ 
+ 
+       
